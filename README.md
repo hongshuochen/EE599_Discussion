@@ -2,4 +2,4 @@
 
 add
 
-substract
+subst
